@@ -5,14 +5,33 @@
 
 /* Styling */
 body {
-    background: yellow;
-    font-size: 5em;}
+    background: yellow;}
 
-/* Stage */
+// Stage (Parent)
 #stage {
     position: relative;
-}
+    overflow: hidden;}
 
+//Child
 #stage svg {
     position: absolute;
-}
+    bottom: -10;
+    right: -100;}
+
+// Child
+#stage h1 {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    font-family: sans-serif;}
+
+// Animation go here!!
+#stage h1,
+#stage svg {
+    opacity: 0;
+    transition: opacity 2.5s;}
+
+//Last frame
+#stage:hover h1,
+#stage:hover svg{
+    opacity: 1;}
