@@ -1,0 +1,18 @@
+// Grand Central Station
+@import 'normalize';
+@import 'google-homepage';
+
+
+/* Styling */
+body {
+    background: yellow;
+    font-size: 5em;}
+
+/* Stage */
+#stage {
+    position: relative;
+}
+
+#stage svg {
+    position: absolute;
+}
