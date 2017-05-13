@@ -22,3 +22,4 @@ Google doodle created to honor the first dog who went to space. A true internati
 ![](https://img.yescdn.ru/2016/01/07/cover/Muppets-From-Space-the-muppets-116872_1024_768.jpg)
 ![](http://cdn.marketplace.akc.org/media/36151/1458701608_6592_2520.jpg)
 ![they're good dogs, Brent](https://peopledotcom.files.wordpress.com/2016/08/leland-melvin-800.jpg?w=800)
+![](https://s-media-cache-ak0.pinimg.com/originals/e2/c8/ab/e2c8abc6c7e90eb144c5898b5aa1ca74.jpg)
