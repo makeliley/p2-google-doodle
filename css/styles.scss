@@ -5,7 +5,8 @@
 
 /* Styling */
 body {
-    background: yellow;}
+    background: black;
+background-image:url("img/url.jpg")}
 
 // Stage (Parent)
 #stage {
@@ -23,13 +24,13 @@ body {
     position: absolute;
     top: 40%;
     left: 30%;
-    font-family: sans-serif;}
+    font-family: 'Poppins', serif;}
 
 // Animation go here!!
 #stage h1,
 #stage svg {
     opacity: 0;
-    transition: opacity 2.5s;}
+    transition: opacity 1.5s;}
 
 //Last frame
 #stage:hover h1,
