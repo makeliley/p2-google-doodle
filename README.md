@@ -7,9 +7,9 @@ This Google Doodle was created to honor the memory of the first dog who went to 
 
 ## References
 
-* [Name of Link](http://)
-* [Name of Link](http://)
-* [Name of Link](http://)
+* [The Sad Story of Laika, the First Dog Launched Into Orbit](http://time.com/3546215/laika-1957/)
+* [Laika the Dog & the First Animals in Space](http://www.space.com/17764-laika-first-animals-in-space.html)
+* [Trustworthy Source](https://en.wikipedia.org/wiki/Laika)
 
 1. A brave Soviet named Laika was the first animal to be launched into orbit. De-orbiting techniques had not been engineered at the time, so Laika was not expected to survive their trip. Scientists didn't think humans could survive the harsh conditions of space travel, and sure enough, Laika overheated within a few hours. Laika provided some of the first data on living beings in space which has proven to be invaluable to our specie's space travel.
 2. Laika was no purebred entitled dog. She was actually a stray scientists found wandering the streets of Moscow, chosen specifically because she had already endured the cold harsh conditions of homelessness, and therefore hopefully would have a better chance in space. Scientists nicknamed her Kudryavka (Russian for Little Curly), Zhuchka (Little Bug), and Limonchik (Little Lemon), but Laika was the name that went down in history books.
