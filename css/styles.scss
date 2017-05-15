@@ -13,17 +13,18 @@ body {
     position: relative;
     overflow: hidden;}
 
-//Child
-#stage svg {
-    position: absolute;
-    bottom: -10;
-    right: -100;}
-
 // Child
 #stage h1 {
+    display: none;
     position: absolute;
-    top: 40%;
-    left: 30%;}
+    bottom: 100;
+    right: -50;}
+
+// Child
+svg {
+    position: relative;
+    top: 20%;
+    left: 20%;}
 
 // Animation go here!!
 #stage h1,
@@ -31,7 +32,7 @@ body {
     opacity: 0;
     transition: opacity 1.5s;}
 
-//Last frame
+// Last frame
 #stage:hover h1,
 #stage:hover svg{
     opacity: 1;}
