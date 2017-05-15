@@ -15,22 +15,20 @@ body {
 
 // Child
 #stage h1 {
-    display: none;
     position: absolute;
-    bottom: 100;
-    right: -50;}
+    bottom: 0;
+    right: 0;}
 
 // Child
 svg {
     position: relative;
-    top: 20%;
+    top: 50%;
     left: 20%;}
 
 // Animation go here!!
 #stage h1,
 #stage svg {
-    opacity: 0;
-    transition: opacity 1.5s;}
+    }
 
 // Last frame
 #stage:hover h1,
