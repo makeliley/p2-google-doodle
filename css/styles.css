@@ -96,7 +96,12 @@ body {
 
 #stage:hover
 h1,#stage:hover svg{
-    transform: skewX(-1deg) skewY(-1deg);
+    transform: rotate(1.5deg);}
+
+
+
+.tada {
+  animation-name: tada;
 }
 
 #doodle:hover {
