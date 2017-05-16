@@ -23,7 +23,8 @@ body {
 svg {
     position: relative;
     top: 50%;
-    left: 20%;}
+    left: 20%;
+    z-index: 10;}
 
 // Animation go here!!
 #stage h1,
