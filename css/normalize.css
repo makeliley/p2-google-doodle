@@ -233,7 +233,7 @@ input,
 optgroup,
 select,
 textarea {
-  margin: 0;
+  margin: auto;
 }
 
 /**
